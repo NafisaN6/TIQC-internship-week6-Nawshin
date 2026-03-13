@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Slack bot which automatically posts a daily summary of verified news articles to a Slack channel (in this case, I had it give it to me in my private dms). The bot retrieves headlines from trusted news organizations, summarizes them, and finally, posts them to Slack with a source link.
+This project is a Slack bot which  will automatically post a daily summary of verified news articles to a Slack channel (in this case, I had it give it to me in my private dms). The bot retrieves headlines from trusted news organizations, summarizes them, and finally, posts them to Slack with a source link.
 
 The goal of this project is to demonstrate automation, API integration, and basic information verification.
 
